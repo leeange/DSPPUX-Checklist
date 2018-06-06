@@ -170,9 +170,10 @@ For further information, inquiries, user research resource, or partnership oppor
  ##### Natalie Cadranel, natalie@open-archive.org
  ##### Anqi Li, anqi@accessnow.org
  ##### An Xiao Mina, an@meedan.com
- ##### Caroline Sinders csinders@gmail.com
+ ##### Caroline Sinders, csinders@gmail.com
  
- Current and Past Contributors also include: Martin Shelton, Matt Mitchell, TTCat
+Current and Past Contributors also include: Martin Shelton, Matt Mitchell, Soraya Okuda, TTCat
+
 
 [1] For more about user research methods, visit Nielsen Norman Group’s summary at  https://www.nngroup.com/articles/which-ux-research-methods
 

@@ -9,9 +9,9 @@ Drawing upon work experience with at-risk communities, this checklist is for too
 * * *
 
 ### PHASE I Research and Ideation
-Before you start building the tool, platform, or technology, you want to know the people who will be using them. You need to collect and analyze information from your stakeholders and research participants. 
+Before you start building the tool, platform, or technology, you want to know the people who will be using them. Consider collecting and analyzing information from your stakeholders and research participants. 
 
-User research involves many methods — interviews, ethnographic field research, focus groups, surveys, etc.<sup>[1]</sup>. — nearly all of them mean you need to gather information from others. It will be your job to protect them and their information. **Answer the following to gauge how you are doing.**
+User research involves many methods — interviews, ethnographic field research, focus groups, surveys, etc.<sup>[1]</sup> — that means you would retain information from others. It will be your job to protect them and their information. It will be your job to protect them and their information. **Answer the following to gauge how you are doing.**
 
 * * *
 
@@ -53,7 +53,7 @@ User research involves many methods — interviews, ethnographic field research,
 | Tips 		    |
 | ------------- |
 | *Due Diligence:*      | 
-| [a] Vetting subjects include the group you are helping, their biggest problem you want to solve, and the context. Find your measures of success, dealbreakers, and gather as many feedback as possible to ensure the objectivity. |
+| [a] Vetting subjects include the group you are helping, their biggest problem you want to solve, and the context. Find your measures of success, dealbreakers, and gather as much feedback as possible to ensure the objectivity. |
 
  
  ##### Diversity and Inclusion

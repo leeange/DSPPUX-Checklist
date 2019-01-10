@@ -1,11 +1,17 @@
 # Digital Security and Privacy Protection UX Checklist (DSPPUX-Checklist)
 
-This checklist provides suggestions to promote digital security and privacy for people who are designing and developing tools for targeted communities.
+*Last update: Jan 10 2019*
+
+Drawing upon work experience with at-risk communities, this checklist is for tool developers who want their designs to protect digital security and privacy for communities they are helping. It provides a lightweight guide for people with limited resources in user research and design. By answering the questions in steps, you will be able to shape a development plan with necessary user research, feature design, and testing agenda.
+
+* * *
+
+	How to use this document: Read through each statement. Check the box if you have incorporated the practice into your design and development process. Consider the action items that you haven’t addressed. 
 
 * * *
 
 ### PHASE I Research and Ideation
-	Before you start building the tool, platform, or technology, you want to know the people who will be using them. You need to collect and analyze information from your stakeholders and research participants. 
+> Before you start building the tool, platform, or technology, you want to know the people who will be using them. You need to collect and analyze information from your stakeholders and research participants. 
 
 1.  User research involves many methods — interviews, ethnographic field research, focus groups, surveys, etc.<sup>[1]</sup>. — nearly all of them mean you need to gather information from others. It will be your job to protect them and their information.
 ###### *Answer the following to gauge how you are doing.*

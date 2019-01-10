@@ -38,7 +38,7 @@ User research involves many methods — interviews, ethnographic field research,
 | ------------- |
 | *Comms and Info Gathering:*      | 
 | [a] Partner with human rights organizations or have them as part of your research network. |
-| [b] Always use end-to-end encrypted channels when you can, and train your contact to securely contact you. |
+| [b] Always use end-to-end encrypted channels when you can, and find for your contact the best way to safely contact you. |
 | [c] Secure the data you keep and pay attention to protecting the identities of people in your research. |
 | [d] If metadata is a concern for your audience (e.g. having evidence of you and the contact chatting or calling), do you have an alternate method of communicating? |
    

@@ -184,8 +184,8 @@ Your research continues in this phase as you are coming back to the conversation
 * * *
 
 For further information, inquiries, user research resource, or partnership opportunities, please contact:
+ ##### Sage Cheng, sage@accessnow.org
  ##### Natalie Cadranel, natalie@open-archive.org
- ##### Anqi Li, anqi@accessnow.org
  ##### An Xiao Mina, an@meedan.com
  ##### Caroline Sinders, csinders@gmail.com
  

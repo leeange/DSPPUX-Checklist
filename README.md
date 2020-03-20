@@ -182,6 +182,8 @@ Your research continues in this phase as you are coming back to the conversation
 | [a] It is particularly important to set a Code of Conduct and problem tracking mechanism for your tool / tech / platform if you aim to nurture a community through your rights-protecting product or service. |
 
 * * *
+This work is licensed [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+Creative Commons Attribution-NonCommercial-ShareAlike
 
 For further information, inquiries, user research resource, or partnership opportunities, please contact:
  ##### Sage Cheng, sage@accessnow.org
